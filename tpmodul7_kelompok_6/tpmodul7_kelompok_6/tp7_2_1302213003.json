@@ -1,0 +1,32 @@
+{
+	"courses": [
+		{
+			"code": "CRI2C4",
+			"name": "KPL"
+		},
+		{
+			"code": "CRI2C5",
+			"name": "PEPENG"
+		},
+		{
+			"code": "CRI2C6",
+			"name": "PROTING"
+		},
+		{
+			"code": "CRI2C7",
+			"name": "BASDAT"
+		},
+		{
+			"code": "CRI2C8",
+			"name": "STRUKDAT"
+		},
+		{
+			"code": "CRI2C8",
+			"name": "SQA"
+		},
+		{
+			"code": "CRI2C0",
+			"name": "JARKOM"
+		}
+	]
+}
